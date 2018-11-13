@@ -1,0 +1,22 @@
+body {
+    color: palevioletred;
+    background-image: url('cookiebg.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#cookie {
+    height: 50vh;
+    width: 50vh;
+    background-image: url('cookie.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: auto;
+    margin-top: 20vh;
+}
+
+output {
+    display: flex;
+    align-items: center
+}
